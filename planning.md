@@ -4,10 +4,12 @@
 - 会员类                       Member
 - 借阅信息类               Record
 - 管理系统类               ManagementSystem
+- 测试类                       Main
 
 
 
-- 对用户密码进行加密存储
+
+
 - 对文件输入输出
   - 会员信息：member.txt
   - 商品信息：product.txt
