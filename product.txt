@@ -1,0 +1,11 @@
+Book#编号#名称#数量#作者#ISBN
+DVD#编号#名称#数量#ISRC
+Book#001#书1#10#jht#12345678
+Book#002#书2#2#hhh#123123
+Book#001#aa#12#jht#11122
+DVD#aaa#aaa#11#344567
+DVD#12#aa#10#44
+Book#11#11#11#11#11
+DVD#22#22#22#22
+Book#1#jjht#1#jht#1234
+Book#123#zz#0#d#34455
